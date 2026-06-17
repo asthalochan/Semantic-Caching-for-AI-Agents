@@ -1,0 +1,9 @@
+{
+  "cache_hit_rate": 0.6176470588235294,
+  "avg_cache_latency_ms": 3.8356682941064397,
+  "avg_mock_llm_latency_ms": 341.06280650003634,
+  "without_cache_latency_ms": 341.06280650003634,
+  "with_cache_latency_ms": 132.77545643166786,
+  "latency_drop_percent": 61.07008624182721,
+  "speedup_x": 2.5687187652453103
+}

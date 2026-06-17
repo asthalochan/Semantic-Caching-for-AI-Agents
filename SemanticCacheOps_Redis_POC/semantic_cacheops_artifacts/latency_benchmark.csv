@@ -1,0 +1,35 @@
+query,cache_latency_ms,mock_llm_latency_ms
+How can I get my money back?,4.642976000013732,458.57388600006743
+I want a refund please,6.033440999999584,251.29605899974194
+What's the process for getting my money back?,3.5857549996762828,217.09842200016283
+How can I request a refund for my purchase?,3.7189120002949494,218.89413799999602
+Can I get a refund if I changed my mind after using the product?,3.4558890001790132,279.3734619999668
+What's your refund policy for digital products?,3.691037999942637,342.05705400017905
+I forgot my password,3.6357469998620218,310.22866100011015
+Can you help me reset my password?,3.5985279996566533,395.1322119996803
+I cannot log in because I lost my password,3.441699000177323,288.1459310001446
+Where can I track my package?,3.6140040001555462,330.7235360002778
+How do I know where my order is?,4.302230000121199,300.35773000008703
+Do you send tracking information?,2.8110459998060833,484.5684470001288
+Can you deliver outside the US?,3.233862000342924,272.2000799999478
+Do you ship to other countries?,4.1427250002925575,491.23633899989727
+How many months is the warranty?,3.52035000014439,325.06411100030164
+What warranty do electronics include?,2.9720269999415905,389.4946090003941
+I need to cancel my account,3.8284370002656942,320.20437599976503
+How can I stop my subscription?,4.2047270003422454,426.7354469998281
+How do I upgrade my subscription plan?,3.575463999823114,213.3845440002915
+Can I pause my subscription temporarily?,3.225031000056333,486.9062520001535
+Can I update where my order will be delivered?,6.651917999988655,314.64770299999145
+I need to change the shipping address,8.861090999744192,218.53178999981537
+Can I schedule a specific delivery time?,4.364134999832459,283.6405219995868
+How can I change my card?,3.6832269997830736,360.8754410001893
+Where do I edit payment options?,3.7460730000020703,347.1681470000476
+What time do you open?,3.279416999703244,269.55111600000237
+When is support available?,3.5348009996596375,309.48641500026497
+Is there a phone app?,3.1849229999352247,405.2625550002631
+Can I use your service from Android?,4.167197999777272,221.88410499984457
+Do you offer installation services?,2.794231999814656,463.4755249999216
+Can I schedule a phone call with support?,2.4825479999890376,435.6839530000798
+Do you sell gift cards?,2.5746410001374898,359.14245000003575
+Can I merge two accounts?,2.9483200000868237,397.9798129998926
+How do I delete all my data?,2.906310000071244,407.1305900001789

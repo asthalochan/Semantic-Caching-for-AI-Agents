@@ -1,0 +1,20 @@
+{
+  "distance_threshold": 0.3,
+  "total_queries": 34,
+  "cache_hit_rate": 0.6176470588235294,
+  "precision": 1.0,
+  "recall": 0.6176470588235294,
+  "f1_score": 0.7636363636363637,
+  "accuracy": 0.6176470588235294,
+  "confusion_matrix": [
+    [
+      0,
+      0
+    ],
+    [
+      13,
+      21
+    ]
+  ],
+  "correct_match_rate_when_hit": 0.8571428571428571
+}

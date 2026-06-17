@@ -1,0 +1,35 @@
+query,expected_match,true_hit,predicted_hit,matched_prompt,vector_distance,correct_match
+How can I get my money back?,How do I get a refund?,True,True,How do I get a refund?,0.248883247375,True
+I want a refund please,How do I get a refund?,True,True,How do I get a refund?,0.160792708397,True
+What's the process for getting my money back?,How do I get a refund?,True,True,How do I get a refund?,0.244715332985,True
+How can I request a refund for my purchase?,How do I get a refund?,True,True,How do I get a refund?,0.190104663372,True
+Can I get a refund if I changed my mind after using the product?,,True,False,,,False
+What's your refund policy for digital products?,,True,False,,,False
+I forgot my password,Can I reset my password?,True,True,Can I reset my password?,0.183857262135,True
+Can you help me reset my password?,Can I reset my password?,True,True,Can I reset my password?,0.0604028701782,True
+I cannot log in because I lost my password,Can I reset my password?,True,False,,,False
+Where can I track my package?,Where is my order?,True,False,,,False
+How do I know where my order is?,Where is my order?,True,True,Where is my order?,0.111881673336,True
+Do you send tracking information?,Where is my order?,True,False,,,False
+Can you deliver outside the US?,Do you ship internationally?,True,True,Do you ship internationally?,0.27207660675,True
+Do you ship to other countries?,Do you ship internationally?,True,True,Do you ship internationally?,0.156432807446,True
+How many months is the warranty?,How long is the warranty?,True,True,How long is the warranty?,0.0980626940727,True
+What warranty do electronics include?,How long is the warranty?,True,False,,,False
+I need to cancel my account,How do I cancel my subscription?,True,True,How do I cancel my subscription?,0.212065696716,True
+How can I stop my subscription?,How do I cancel my subscription?,True,True,How do I cancel my subscription?,0.0846732854843,True
+How do I upgrade my subscription plan?,,True,True,How do I cancel my subscription?,0.250154852867,False
+Can I pause my subscription temporarily?,,True,True,How do I cancel my subscription?,0.277127027512,False
+Can I update where my order will be delivered?,Can I change my delivery address?,True,True,Can I change my delivery address?,0.164771258831,True
+I need to change the shipping address,Can I change my delivery address?,True,True,Can I change my delivery address?,0.271325409412,True
+Can I schedule a specific delivery time?,,True,True,Can I change my delivery address?,0.286493182182,False
+How can I change my card?,How do I update my payment method?,True,True,How do I update my payment method?,0.280323445797,True
+Where do I edit payment options?,How do I update my payment method?,True,True,How do I update my payment method?,0.263006687164,True
+What time do you open?,What are your business hours?,True,True,What are your business hours?,0.224218070507,True
+When is support available?,What are your business hours?,True,False,,,False
+Is there a phone app?,Do you have a mobile app?,True,True,Do you have a mobile app?,0.233221411705,True
+Can I use your service from Android?,Do you have a mobile app?,True,False,,,False
+Do you offer installation services?,,True,False,,,False
+Can I schedule a phone call with support?,,True,False,,,False
+Do you sell gift cards?,,True,False,,,False
+Can I merge two accounts?,,True,False,,,False
+How do I delete all my data?,,True,False,,,False
